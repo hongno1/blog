@@ -1,0 +1,5 @@
+Django==1.11.7
+django-taggit==0.22.2
+Markdown==2.6.11
+PyMySQL==0.8.0
+pytz==2018.4
